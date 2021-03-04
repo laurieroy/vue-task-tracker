@@ -1,4 +1,6 @@
 # vue-task-2021
+This is practice project using Vue3, running through Traversy Media's [tutorial]().
+
 
 ## Project setup
 ```
